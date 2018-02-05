@@ -1,0 +1,1 @@
+pyuic5 -x LoadData.ui -o LoadDataUI.py

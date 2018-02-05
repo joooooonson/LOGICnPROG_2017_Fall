@@ -1,0 +1,5 @@
+Who is the best Star Trek captain?,Oh boy...,Jean-Luc Picard,James T. Kirk,I abstain from voting,1
+Who's on first?,I Don't Know,Abbott,Who,costello,2
+What's the best colour?,Blue,Yellow,Black,Red,3
+Who is the strongest Marvel character?,The Hulk,Iron Man,Spiderman,Thor,0
+Which isn't a Tolkien character?,Saruman,Gandalf,Frodo,Pikachu,3

@@ -1,0 +1,3 @@
+What is 2 * 2?,4,2,8,6,0
+What is the capital of Canada?,Toronto,Ottawa,Pennsylvania,The Moon,1
+Why did the chicken cross the road?,To get to the other side,To go to work,To get a bottle of Dr. Pecker,Does he need a #$#!$ reason?!,2

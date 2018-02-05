@@ -1,0 +1,1 @@
+pyuic5 -x cow_mainwindow.ui -o mainwindow.py

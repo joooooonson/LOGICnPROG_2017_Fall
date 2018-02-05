@@ -1,0 +1,3 @@
+Joon,99,NSCC
+Sally,89,NSCC
+Son,100,Hose

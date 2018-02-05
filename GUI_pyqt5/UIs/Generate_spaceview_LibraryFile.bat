@@ -1,0 +1,1 @@
+pyuic5 -x spaceview.ui -o spaceview.py
